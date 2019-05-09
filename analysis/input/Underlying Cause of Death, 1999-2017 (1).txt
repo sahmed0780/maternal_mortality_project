@@ -1,0 +1,145 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	"Year"	"Year Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	"2004"	"2004"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	14	1324558	Unreliable
+	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	"2007"	"2007"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	13	1338248	Unreliable
+	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	"2009"	"2009"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	13	1363153	Unreliable
+	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	"2013"	"2013"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	10	1405371	Unreliable
+	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	"2014"	"2014"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	10	1418637	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2003"	"2003"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	15	13724880	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2004"	"2004"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	47	13797310	0.3
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2004"	"2004"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	10	13797310	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2005"	"2005"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	30	13832450	0.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2006"	"2006"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	46	13846008	0.3
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2007"	"2007"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	36	13874822	0.3
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2008"	"2008"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	13	13954544	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	78	14035595	0.6
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2010"	"2010"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	26	14105562	0.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2011"	"2011"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	20	14228546	0.1
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2012"	"2012"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	12	14310934	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2012"	"2012"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	25	14310934	0.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	19	14384306	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	10	14384306	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	14	14530033	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	34	14530033	0.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	30	14603781	0.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	18	14603781	Unreliable
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	22	14613728	0.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	20	14613728	0.1
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	"Death from direct obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.0"	27	14642766	0.2
+	"California"	"06"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	12	14642766	Unreliable
+	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	"Other specified pregnancy-related conditions"	"O26.8"	10	7581370	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	"2014"	"2014"	"Other specified pregnancy-related conditions"	"O26.8"	15	1730861	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	11	1764305	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	"2017"	"2017"	"Other specified pregnancy-related conditions"	"O26.8"	12	1833248	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Other specified pregnancy-related conditions"	"O26.8"	13	3195323	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	16	3195323	Unreliable
+	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	"2007"	"2007"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	14	1034950	Unreliable
+	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	"2006"	"2006"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	16	5079323	Unreliable
+	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	"2007"	"2007"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	19	5091715	Unreliable
+	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	"Other specified pregnancy-related conditions"	"O26.8"	18	2908850	Unreliable
+	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	"Other specified pregnancy-related conditions"	"O26.8"	14	2907077	Unreliable
+	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	10	3368787	Unreliable
+	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Other specified pregnancy-related conditions"	"O26.8"	12	3366114	Unreliable
+	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	13	7193960	Unreliable
+	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	"2010"	"2010"	"Other specified pregnancy-related conditions"	"O26.8"	10	7193156	Unreliable
+	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	10	7129870	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	"Other specified pregnancy-related conditions"	"O26.8"	10	4987072	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	11	5504119	Unreliable
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2009"	"2009"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	10	1603937	Unreliable
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2012"	"2012"	"Other specified pregnancy-related conditions"	"O26.8"	13	1708678	Unreliable
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2013"	"2013"	"Other specified pregnancy-related conditions"	"O26.8"	10	1746679	Unreliable
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	"Other specified pregnancy-related conditions"	"O26.8"	17	1833448	Unreliable
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2015"	"2015"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	12	1833448	Unreliable
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2016"	"2016"	"Other specified pregnancy-related conditions"	"O26.8"	13	1872006	Unreliable
+	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	"2017"	"2017"	"Other specified pregnancy-related conditions"	"O26.8"	16	1914300	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2003"	"2003"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	18	9250249	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2005"	"2005"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	22	9519891	0.2
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2006"	"2006"	"Other specified pregnancy-related conditions"	"O26.8"	12	9705520	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2006"	"2006"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	12	9705520	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2007"	"2007"	"Other specified pregnancy-related conditions"	"O26.8"	10	9881326	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2008"	"2008"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	13	10053324	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2008"	"2008"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	10	10053324	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	"Other specified pregnancy-related conditions"	"O26.8"	10	10229491	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2009"	"2009"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	31	10229491	0.3
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2010"	"2010"	"Other specified pregnancy-related conditions"	"O26.8"	11	10349638	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2010"	"2010"	"Death from any obstetric cause occurring more than 42 days but less than one year after delivery"	"O96"	22	10349638	0.2
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2011"	"2011"	"Other specified pregnancy-related conditions"	"O26.8"	20	10540864	0.2
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2011"	"2011"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	19	10540864	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2012"	"2012"	"Other specified pregnancy-related conditions"	"O26.8"	32	10650051	0.3
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2012"	"2012"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	21	10650051	0.2
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	"Other specified pregnancy-related conditions"	"O26.8"	26	10770165	0.2
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	11	10770165	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2013"	"2013"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	17	10770165	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Other specified pregnancy-related conditions"	"O26.8"	37	10956403	0.3
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"	"O99.4"	12	10956403	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2014"	"2014"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	15	10956403	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	"Other specified pregnancy-related conditions"	"O26.8"	29	11124743	0.3
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	"Death from indirect obstetric cause occurring more than 42 days but less than one year after delivery"	"O96.1"	10	11124743	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2015"	"2015"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	15	11124743	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2016"	"2016"	"Other specified pregnancy-related conditions"	"O26.8"	40	11254892	0.4
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	"Liver disorders in pregnancy, childbirth and the puerperium"	"O26.6"	12	11385010	Unreliable
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	"Other specified pregnancy-related conditions"	"O26.8"	33	11385010	0.3
+	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	"2017"	"2017"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	15	11385010	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"ICD-10 Codes: O00-O99 (Pregnancy, childbirth and the puerperium)"
+"Group By: State; Gender; Race; Year; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: May 9, 2019 2:23:49 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on May 9, 2019 2:23:49 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"7. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1"
+"Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from"
+"the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are"
+"April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population"
+"figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 -"
+"2009 differ slightly from previously published reports, due to use of the population estimates which were available at the time"
+"of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
