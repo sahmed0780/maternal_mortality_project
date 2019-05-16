@@ -1,0 +1,269 @@
+"Notes"	"Census Region"	"Census Region Code"	"Race"	"Race Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2006"	"2006"	15	2958911	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	10	3435366	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	10	3667612	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	14	3956023	Unreliable
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"			128	60290488	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"1999"	"1999"	25	6764575	0.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2000"	"2000"	25	6832830	0.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2001"	"2001"	36	6918649	0.5
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2002"	"2002"	25	6982620	0.4
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2003"	"2003"	41	7040695	0.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2004"	"2004"	57	7083952	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2005"	"2005"	50	7124822	0.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2006"	"2006"	49	7173667	0.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2007"	"2007"	59	7228340	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2008"	"2008"	59	7300661	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2009"	"2009"	62	7385644	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2010"	"2010"	59	7451386	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2011"	"2011"	55	7526985	0.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2012"	"2012"	51	7608045	0.7
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2013"	"2013"	67	7686518	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2014"	"2014"	67	7793592	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2015"	"2015"	45	7863767	0.6
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2016"	"2016"	65	7908555	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2017"	"2017"	55	7996433	0.7
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"			952	139671736	0.7
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"1999"	"1999"	34	44129786	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2000"	"2000"	23	44210192	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2001"	"2001"	35	44288307	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2002"	"2002"	23	44325752	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2003"	"2003"	48	44338835	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2004"	"2004"	75	44274189	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2005"	"2005"	59	44148943	0.1
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2006"	"2006"	80	44060902	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2007"	"2007"	75	44019749	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2008"	"2008"	77	44042966	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2009"	"2009"	88	44089685	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2010"	"2010"	80	44117780	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2011"	"2011"	95	44149917	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2012"	"2012"	87	44178224	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2013"	"2013"	96	44166477	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2014"	"2014"	100	44106668	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2015"	"2015"	96	44030808	0.2
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2016"	"2016"	115	43859084	0.3
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2017"	"2017"	102	43887326	0.2
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"			1388	838425590	0.2
+"Total"	"Census Region 1: Northeast"	"CENS-R1"					2472	1045051171	0.2
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"			46	11040330	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	11	2251200	Unreliable
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"			78	35062933	0.2
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"1999"	"1999"	23	6701954	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2000"	"2000"	24	6779740	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2001"	"2001"	21	6878679	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2002"	"2002"	27	6945761	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2003"	"2003"	29	7010525	0.4
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2004"	"2004"	48	7076731	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2005"	"2005"	50	7140535	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2006"	"2006"	47	7216686	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2007"	"2007"	53	7286226	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2008"	"2008"	42	7350163	0.6
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2009"	"2009"	63	7414058	0.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2010"	"2010"	49	7466580	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2011"	"2011"	50	7527842	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2012"	"2012"	68	7575400	0.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2013"	"2013"	59	7628130	0.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2014"	"2014"	53	7691693	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2015"	"2015"	64	7748019	0.8
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2016"	"2016"	67	7790771	0.9
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2017"	"2017"	60	7866646	0.8
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"			897	139096139	0.6
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"1999"	"1999"	50	55699117	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2000"	"2000"	56	55815155	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2001"	"2001"	41	56007862	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2002"	"2002"	33	56105498	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2003"	"2003"	44	56222293	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2004"	"2004"	63	56337073	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2005"	"2005"	84	56417569	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2006"	"2006"	81	56541014	0.1
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2007"	"2007"	95	56659991	0.2
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2008"	"2008"	114	56752334	0.2
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2009"	"2009"	141	56840537	0.2
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2010"	"2010"	128	56909913	0.2
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2011"	"2011"	168	57010591	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2012"	"2012"	150	57038340	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2013"	"2013"	148	57126314	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2014"	"2014"	143	57143791	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2015"	"2015"	159	57141011	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2016"	"2016"	174	57071364	0.3
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2017"	"2017"	166	57127553	0.3
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"			2038	1075967320	0.2
+"Total"	"Census Region 2: Midwest"	"CENS-R2"					3059	1261166722	0.2
+"Total"	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"			51	21677786	0.2
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2001"	"2001"	10	2340673	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	10	3672418	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	12	3821413	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	13	4171025	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	14	4607476	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	17	4729496	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	13	4935888	Unreliable
+"Total"	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"			158	65007083	0.2
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"1999"	"1999"	103	19276054	0.5
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2000"	"2000"	78	19505001	0.4
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2001"	"2001"	91	19894170	0.5
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2002"	"2002"	93	20201569	0.5
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2003"	"2003"	108	20490727	0.5
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2004"	"2004"	114	20849037	0.5
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2005"	"2005"	140	21226139	0.7
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2006"	"2006"	143	21605896	0.7
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2007"	"2007"	113	22011801	0.5
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2008"	"2008"	132	22398113	0.6
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2009"	"2009"	158	22754145	0.7
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2010"	"2010"	137	23012835	0.6
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2011"	"2011"	176	23398270	0.8
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2012"	"2012"	196	23731186	0.8
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2013"	"2013"	213	24033672	0.9
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2014"	"2014"	226	24394113	0.9
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2015"	"2015"	240	24749281	1.0
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2016"	"2016"	246	25065417	1.0
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2017"	"2017"	240	25412242	0.9
+"Total"	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"			2947	424009668	0.7
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"1999"	"1999"	85	77052138	0.1
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2000"	"2000"	91	77710591	0.1
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2001"	"2001"	86	78730531	0.1
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2002"	"2002"	79	79547739	0.1
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2003"	"2003"	115	80314107	0.1
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2004"	"2004"	109	81273753	0.1
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2005"	"2005"	173	82293966	0.2
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2006"	"2006"	140	83303729	0.2
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2007"	"2007"	172	84302253	0.2
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2008"	"2008"	181	85207494	0.2
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2009"	"2009"	236	86015813	0.3
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2010"	"2010"	191	86612183	0.2
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2011"	"2011"	198	87537937	0.2
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2012"	"2012"	253	88220377	0.3
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2013"	"2013"	325	88854011	0.4
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2014"	"2014"	301	89641531	0.3
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2015"	"2015"	322	90460092	0.4
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2016"	"2016"	338	91141291	0.4
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2017"	"2017"	329	91906858	0.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"			3724	1610126394	0.2
+"Total"	"Census Region 3: South"	"CENS-R3"					6880	2120820931	0.3
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2006"	"2006"	10	1726231	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	15	2036878	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	10	2086642	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	11	2111656	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	10	2159374	Unreliable
+"Total"	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"			130	34557143	0.4
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2002"	"2002"	13	6430458	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2004"	"2004"	18	6835474	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2005"	"2005"	16	7048006	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2006"	"2006"	24	7265050	0.3
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	16	7474031	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	16	7690251	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	13	7895091	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	22	8049437	0.3
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	12	8226381	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	16	8466480	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	14	8648474	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	20	8932566	0.2
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	15	9187751	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	28	9347940	0.3
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	19	9628848	Unreliable
+"Total"	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"			291	145724022	0.2
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"1999"	"1999"	11	3430538	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2000"	"2000"	15	3476738	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2001"	"2001"	10	3558277	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2002"	"2002"	12	3618474	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2003"	"2003"	15	3667794	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2004"	"2004"	32	3729078	0.9
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2005"	"2005"	27	3789235	0.7
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2006"	"2006"	20	3860858	0.5
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2007"	"2007"	26	3924741	0.7
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2008"	"2008"	19	4000022	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2009"	"2009"	24	4078603	0.6
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2010"	"2010"	19	4134533	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2011"	"2011"	22	4225718	0.5
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2012"	"2012"	20	4288461	0.5
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2013"	"2013"	25	4347951	0.6
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2014"	"2014"	24	4429996	0.5
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2015"	"2015"	25	4502129	0.6
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2016"	"2016"	22	4542277	0.5
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2017"	"2017"	33	4608487	0.7
+"Total"	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"			401	76213910	0.5
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"1999"	"1999"	51	51806749	0.1
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2000"	"2000"	73	52349824	0.1
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2001"	"2001"	73	53165966	0.1
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2002"	"2002"	68	53741546	0.1
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2003"	"2003"	110	54249837	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2004"	"2004"	164	54785019	0.3
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2005"	"2005"	137	55326617	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2006"	"2006"	145	55899626	0.3
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2007"	"2007"	123	56408835	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2008"	"2008"	127	56963585	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2009"	"2009"	141	57442798	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2010"	"2010"	105	57783464	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2011"	"2011"	109	58395886	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2012"	"2012"	112	58787612	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2013"	"2013"	144	59197696	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2014"	"2014"	147	59738477	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2015"	"2015"	121	60243143	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2016"	"2016"	134	60631075	0.2
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2017"	"2017"	160	61013913	0.3
+"Total"	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"			2244	1077931668	0.2
+"Total"	"Census Region 4: West"	"CENS-R4"					3066	1334426743	0.2
+"Total"							15477	5761465567	0.3
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"UCD - ICD-10 Codes: O00-O99 (Pregnancy, childbirth and the puerperium)"
+"Group By: Census Region; Race; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: May 16, 2019 2:58:15 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on May 16, 2019 2:58:15 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"8. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."

@@ -1,0 +1,218 @@
+"Notes"	"Census Region"	"Census Region Code"	"Mother's Bridged Race"	"Mother's Bridged Race Code"	"Year"	"Year Code"	Births
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	2022
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	2133
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	2138
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	2188
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	2465
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	2380
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	2155
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	2102
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	1871
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	1849
+	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	1787
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"American Indian or Alaska Native"	"1002-5"			23090
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	51853
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	51371
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	51216
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	51054
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	52989
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	56624
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	53796
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	56242
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	56446
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	62836
+	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	60750
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Asian or Pacific Islander"	"A-PI"			605177
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2007"	"2007"	119097
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2008"	"2008"	113962
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2009"	"2009"	113154
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2010"	"2010"	109799
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2011"	"2011"	111455
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2012"	"2012"	111037
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2013"	"2013"	108163
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2014"	"2014"	107500
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2015"	"2015"	105142
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2016"	"2016"	104379
+	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"	"2017"	"2017"	104238
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"Black or African American"	"2054-5"			1207926
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2007"	"2007"	514059
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2008"	"2008"	508000
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2009"	"2009"	496678
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2010"	"2010"	485394
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2011"	"2011"	476504
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2012"	"2012"	468682
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2013"	"2013"	466191
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2014"	"2014"	468648
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2015"	"2015"	467163
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2016"	"2016"	456133
+	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"	"2017"	"2017"	448587
+"Total"	"Census Region 1: Northeast"	"CENS-R1"	"White"	"2106-3"			5256039
+"Total"	"Census Region 1: Northeast"	"CENS-R1"					7092232
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	9448
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	9312
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	9181
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	8833
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	8641
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	8506
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	8541
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	8539
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	8447
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	8094
+	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	8063
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"American Indian or Alaska Native"	"1002-5"			95605
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	33106
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	33673
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	33114
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	32591
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	33189
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	35257
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	35066
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	36600
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	36970
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	39343
+	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	38837
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Asian or Pacific Islander"	"A-PI"			387746
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2007"	"2007"	125290
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2008"	"2008"	125389
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2009"	"2009"	122683
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2010"	"2010"	119479
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2011"	"2011"	117562
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2012"	"2012"	118862
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2013"	"2013"	119957
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2014"	"2014"	121577
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2015"	"2015"	122266
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2016"	"2016"	123443
+	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"	"2017"	"2017"	125412
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"Black or African American"	"2054-5"			1341920
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2007"	"2007"	738370
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2008"	"2008"	722811
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2009"	"2009"	704355
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2010"	"2010"	681953
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2011"	"2011"	674832
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2012"	"2012"	670044
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2013"	"2013"	666873
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2014"	"2014"	671533
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2015"	"2015"	667950
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2016"	"2016"	656828
+	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"	"2017"	"2017"	637751
+"Total"	"Census Region 2: Midwest"	"CENS-R2"	"White"	"2106-3"			7493300
+"Total"	"Census Region 2: Midwest"	"CENS-R2"					9318571
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	12949
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	12991
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	12677
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	12260
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	12136
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	12040
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	12350
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	12134
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	12132
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	12007
+	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	11603
+"Total"	"Census Region 3: South"	"CENS-R3"	"American Indian or Alaska Native"	"1002-5"			135279
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	57038
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	56782
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	57927
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	57280
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	59927
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	63668
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	62012
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	67019
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	68493
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	74624
+	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	74114
+"Total"	"Census Region 3: South"	"CENS-R3"	"Asian or Pacific Islander"	"A-PI"			698884
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2007"	"2007"	376990
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2008"	"2008"	376276
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2009"	"2009"	367572
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2010"	"2010"	353518
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2011"	"2011"	349784
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2012"	"2012"	349934
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2013"	"2013"	352205
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2014"	"2014"	356398
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2015"	"2015"	358288
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2016"	"2016"	370425
+	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"	"2017"	"2017"	371999
+"Total"	"Census Region 3: South"	"CENS-R3"	"Black or African American"	"2054-5"			3983389
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2007"	"2007"	1194987
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2008"	"2008"	1172305
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2009"	"2009"	1140494
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2010"	"2010"	1099613
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2011"	"2011"	1083264
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2012"	"2012"	1081630
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2013"	"2013"	1082650
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2014"	"2014"	1104034
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2015"	"2015"	1109235
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2016"	"2016"	1077080
+	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"	"2017"	"2017"	1046301
+"Total"	"Census Region 3: South"	"CENS-R3"	"White"	"2106-3"			12191593
+"Total"	"Census Region 3: South"	"CENS-R3"					17009145
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2007"	"2007"	25024
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2008"	"2008"	25101
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2009"	"2009"	24669
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2010"	"2010"	23479
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2011"	"2011"	23177
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2012"	"2012"	23167
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2013"	"2013"	22945
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2014"	"2014"	22153
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2015"	"2015"	21849
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2016"	"2016"	21605
+	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	20463
+"Total"	"Census Region 4: West"	"CENS-R4"	"American Indian or Alaska Native"	"1002-5"			253632
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2007"	"2007"	112491
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2008"	"2008"	111359
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2009"	"2009"	108832
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2010"	"2010"	105961
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2011"	"2011"	107810
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2012"	"2012"	117253
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2013"	"2013"	114799
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2014"	"2014"	122862
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2015"	"2015"	119355
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2016"	"2016"	125480
+	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"	"2017"	"2017"	123923
+"Total"	"Census Region 4: West"	"CENS-R4"	"Asian or Pacific Islander"	"A-PI"			1270125
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2007"	"2007"	54299
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2008"	"2008"	55182
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2009"	"2009"	54209
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2010"	"2010"	53629
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2011"	"2011"	54100
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2012"	"2012"	54293
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2013"	"2013"	54435
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2014"	"2014"	55087
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2015"	"2015"	54383
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2016"	"2016"	55820
+	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"	"2017"	"2017"	56466
+"Total"	"Census Region 4: West"	"CENS-R4"	"Black or African American"	"2054-5"			601903
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2007"	"2007"	889210
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2008"	"2008"	871047
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2009"	"2009"	831766
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2010"	"2010"	802355
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2011"	"2011"	785755
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2012"	"2012"	779464
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2013"	"2013"	770043
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2014"	"2014"	775648
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2015"	"2015"	768507
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2016"	"2016"	755929
+	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"	"2017"	"2017"	725206
+"Total"	"Census Region 4: West"	"CENS-R4"	"White"	"2106-3"			8754930
+"Total"	"Census Region 4: West"	"CENS-R4"					10880590
+"Total"							44300538
+"---"
+"Dataset: Natality, 2007-2017"
+"Query Parameters:"
+"Group By: Census Region; Mother's Bridged Race; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: May 16, 2019 3:11:40 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2017, on CDC"
+"WONDER Online Database, October 2018. Accessed at http://wonder.cdc.gov/natality-current.html on May 16, 2019 3:11:40 PM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
