@@ -1,19 +1,73 @@
 ---
 title: "Analysis for Project"
-output: 
-  html_document: 
+output:
+  html_document:
     fig_height: 6
     fig_width: 9
     toc: yes
     toc_depth: 4
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 source("useful_functions.R")
+library(readr)
+load("output/analytical_data.RData")
+library(ggplot2)
+library(texreg)
 ```
 
 # Introduction
-<a href="#top">Back to top</a>
+Maternal mortality rate in the United States is more than any other developed countries for decades now. Though there has been significant progress in medical science and reaching medical care to the population through health insurance and care provider facilities, women in the United States are not receiving adequate and quality health care during and after pregnancy. The access to health care and maternal mortality among the African American women have been the highest compared to other races especially White American women. In every 100,000 women the rate of maternal mortality of African American women is 47.2 (2018).  While the maternal mortality rate of White American women is 18.1 I every 100,000 women (2018).  The probability of an African American woman to die for maternal complications is 3 or 4 times greater than a White American woman. This is a trend that has been prevalent for couple of decades now. 
 
-Use this R Markdown to perform the main analysis for the project. I use this basically as a lab notebook. It contains the main analysis and a variety of sensitivity analysis. The code in this documents serves as a baseline for the eventual tables and figures that will go into the paper. At the same time it will serve as a record of all supplementary analyses performed. 
+
+The literature on African American mothers mainly focus on the racism and disparity issue but they all significantly lack detailed and up-to-date data on giving information of the various characteristics and causation of the high mortality rates.  There are studies that shows relations between high maternal mortality of African American women and racism in employment opportunities and disparities in health care access especially prenatal care.  However, they are mainly qualitative studies and do not contain statistical analysis much. Consequentially, the most prevalent limitation with the studies of this topic is the lack of extensive or detailed data availability and their sporadic nature. There are claims in researches that showed increase in deaths of African American women due to childbirth complication after controlling the variables of their age, income and visit to health centers compared to the Latino women.   Another study showed that education level also has relations with maternal mortality.  Some studies argued that physical and mental health of the mothers have impact on maternal outcomes. However, all require more data analysis and evidences for supporting the claims.
+
+In my present research I will concentrate on answering the question of “how access to prenatal care of African American women is affecting their maternal mortality rate compared to the While American women”. Here I will look into indicators such as the visits to the care providers during pregnancy, affordability of the care and adequacy of the care. I will use a nested model of regression where maternal mortality by race will be one set of analysis and access to prenatal care and the indicators associated with it will be the subsets. I think this will be a timely research and essential for understanding and addressing the disparities of health care in terms of racism and gender discrimination in the United States. It is important to know that we will be able to avoid 40 percent of the maternal deaths if we are able to ensure adequate health care for women.  An this is where the importance of this research lies. 
+
+
+# Data and Methods
+
+The maternal mortality data have been collected from the Center for Desease Control and Prevention (CDC) and from the online potal of CDC Wonder. CDC collected the datset in association with National Center for Health Statistics (NCHS). CDC Wonder keep a large number of datasets about the underlying causes of death of the population of the United Statesfrom 57 vital statistics jurisdiction from 1999 to 2017. The data is collected from the death certificates of individuals to get the information on the underlying causes of death. CDC published the dataset in 2018. The death rates were calculated by per 100,000. They are grouped by race, age, sex, year and census region. In terms of generalizability of the dataset is usable to make imputaions to find mortality ratios, standard errors and 95% confidence intervals. However, there is one limitation. Information on death is suppressed whenever the number of deaths is less than 9 in  each state. This is the reason I am going to look at the census regions instead of states to get an average idea of the maternal mortality ratio. Tha dataset from 2008 to 2017 will be used int his project.
+
+The project is going to use Health Insurance Data from IPUMS USA. This is an online data source which maintains large numbers of datasets. The Health Insurence data is collected from American Community Surveys (ACS) which documented data from 2000 to present. For the current purpose of the project, that data is selected from 2008 to 2017. The data is grouped into age, sex, year, census region, race and any health insurance coverage,no health insurance coverage, and with health insurance coverage.
+ 
+
+#Univariate distributions
+
+```{r maternal-mortality, fif.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=mmr_race, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  theme_bw()
+```
+
+```{r insurance-diff, fif.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=diff_coverage, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  geom_hline(yintercept = 0, linetype=2)+
+  theme_bw()
+```
+
+#bivariate plots
+
+```{r maternal mortality, echo=FALSE, fig.cap="", fig.align="center"}
+ggplot(mat_mort, aes(x=diff_coverage, y=mmr_race))+
+  geom_point(aes(color=region))+
+  geom_smooth(method="lm", se=FALSE)+
+  geom_smooth(aes(color=region), method="lm", se=FALSE)+
+  theme_bw()
+```
+
+#Run some models
+
+```{r model, results= 'asis'}
+model.ols <- lm(log(mmr_race)~diff_coverage, data=mat_mort)
+model.fixregion <- update(model.ols, .~.+region)
+model.fixboth <- update(model.fixregion, .~.+as.factor(year))
+htmlreg(list(model.ols, model.fixregion, model.fixboth), digits=3)
+```
