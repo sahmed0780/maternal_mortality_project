@@ -1,11 +1,11 @@
 ---
 output:
   pdf_document:
-    citation_package: natbib
-    fig_caption: yes
-    template: ./resources/aog-latex-ms.tex
+  citation_package: natbib
+  fig_caption: yes
+  template: ./resources/aog-latex-ms.tex
   word_document:
-    reference_docx: ./resources/aog_word_style.docx
+  reference_docx: ./resources/aog_word_style.docx
 fontfamily: mathpazo
 fontsize: 11pt
 anonymous: false
@@ -13,25 +13,214 @@ endnotes: false
 pagenumber: 1
 bibliography: ../project.bib
 biblio-style: ./resources/ajs.bst
-title: "The Title"
-author:
-- affiliation: University of Oregon, Sociology
+title: Health Coverage and Maternal Mortality Ratios in the United States
+author: "Saima Ahmed""
+- affiliation: University of Oregon, Political Science
   name: Aaron Gullickson
-- affiliation: Some Research University
-  name: My co-author
-keywords: keywords
-thanks: Thanks to people and stuff
-abstract: This is a test abstract
+- affiliation: University of Oregon
+keywords: Maternal Mortality
+thanks: Thanks to Dr. Aaron Gullickson"
+abstract: The maternal mortality rates among the African American women in the United States has been quite high (47.2 in 2018) comapared to other races. The progress in medical facilities and healthcare services did not have much impact in decreasing the trend. This area is also relatively under researched and needs more attention for understanding the underlying causes behind this. There can be a multitude of causes such as access to health insurance, access to prenatal and post natal care, socio economic conditions of women especially the blacks, discrimination beacuse of gender and race in the society, etc. This present research project aims at exploring whether or not access to health insurance is affecting the maternal mortality ratio of African American women compared to the White American women. 
 ---
 
-# Introduction
+#Introduction
 
-# Background
+Maternal mortality rate in the United States is more than any other developed countries for decades now. Though there has been significant progress in medical science and reaching medical care to the population through health insurance and care provider facilities, women in the United States are not receiving adequate and quality health care during and after pregnancy. The access to health care and maternal mortality among the African American women have been the highest compared to other races especially White American women. In every 100,000 women the rate of maternal mortality of African American women is 47.2 (2018).[1]  While the maternal mortality rate of White American women is 18.1 in every 100,000 women (2018).[2]  The probability of an African American woman to die for maternal complications is 3 or 4 times greater than a White American woman. This is a trend that has been prevalent for couple of decades now. 
 
-# Data and Methods
 
-# Results
+The literature on African American mothers mainly focus on the racism and disparity issue but they all significantly lack detailed and up-to-date data on giving information of the various characteristics and causation of the high mortality rates.  There are studies that shows relations between high maternal mortality of African American women and racism in employment opportunities and disparities in health care access especially prenatal care.[3]  However, they are mainly qualitative studies and do not contain statistical analysis much. Consequentially, the most prevalent limitation with the studies of this topic is the lack of extensive or detailed data availability and their sporadic nature. One of the reasons being that the information on maternal mortality is suppressed by the government agencies. There are claims in researches that showed increase in deaths of African American women due to childbirth complication after controlling the variables of their age, income and visit to health centers compared to the Latino women.[4] Another study showed that education level also has relations with maternal mortality.  Some studies argued that physical and mental health of the mothers have impact on maternal outcomes.[5] However, all require more data analysis and evidences for supporting the claims.
 
-# Conclusions
+In my present research I will concentrate on answering the question of "whether or not access to health insurance is affecting the maternal mortality ratio of African American women compared to the White American women". Here I will look into indicators of women with health insurance and without health insurance and the difference between African American women and White American women in terms of health insurance at the census region level. Then I will compare this difference with the maternal mortality ratio between the African American women and White American women at the same census region level and try to find out any positive correlations between them. All the data are collected from 2008 to 2017 time period and I will also see the change through this time period on the dependent variable. I will use a fixed effect regression model where the effect of access to health insurance which is the independent variable will be measured on the maternal mortality ratio by race. The project is limited in scope because it is a course term paper for the duration of which was only three months. There can be many other causes or independent variables behind the high mortality ratios of African American women and women in general in the United States. For example, the socio-economic status, discrimination in work place regarding pregnancy related issues, women's employment status in general in society, education level, quality of prenatal and post-natal care, access to regular health checkups, discrimination in accessing health care systems and so on and so forth. Nevertheless, I think this will be a timely research even though it is limited in scope and condition, and essential for understanding and addressing the high maternal mortality ratios in terms of race and gender in the United States. It is important to know that we will be able to avoid 40 percent of the maternal deaths if we are able to ensure adequate health care for women.[6]  And this is where the importance of this research lies. 
 
-# References
+#Data and Methods
+
+The maternal mortality data have been collected from the Center for Disease Control and Prevention (CDC) and from the online portal of CDC Wonder. CDC collected the dataset in association with National Center for Health Statistics (NCHS). CDC Wonder keep a large number of datasets about the underlying causes of death of the population of the United States from 57 vital statistics jurisdiction from 1999 to 2017. The data is collected from the death certificates of individuals to get the information on the underlying causes of death. CDC published the dataset in 2018. The death rates were calculated by per 100,000. They are grouped by race, age, sex, year and census region. In terms of generalizability of the dataset is usable to make imputations to find mortality ratios, standard errors and 95% confidence intervals. However, there is one limitation. Information on death is suppressed whenever the number of deaths is less than 9 in each state. This is the reason I am going to look at the census regions instead of states to get an average idea of the maternal mortality ratio. The dataset from 2008 to 2017 will be used int his project.
+
+The project is going to use Health Insurance Data from IPUMS USA. This is an online data source which maintains large numbers of datasets. The Health Insurance data is collected from American Community Surveys (ACS) which documented data from 2000 to present. For the current purpose of the project, that data is selected from 2008 to 2017. The data is grouped into age, sex, year, census region, race and any health insurance coverage, no health insurance coverage, and with health insurance coverage.
+
+A fixed effect regression model will be used where the effect of access to health insurance which is the independent variable will be measured on the maternal mortality ratio by race. Since race, age and sex are constant over time, the fixed effect model seems to fit best  for the purpose. Dummy variables will be created for time and place. 
+
+
+#Hypotheses
+
+My first hypothesis is that if the health coverage of White American women and the African American women in a given year increases, then it will decrease their maternal mortality rate rates respectively. My second hypothesis is that if the difference in health insurance coverage between white and black women increases in a given year it will increase maternal mortality ratio of black women over white women and vice versa. I will also look into how variation of the independent variable manifests over the years on the dependent variable.
+
+The first two plots look at the maternal mortality rates of white and black women across region from 2008 to 2017 and they show an increasing trend in all of the regions.
+
+#Hypothesis 1
+
+The first two plots look at the maternal mortality rates of white and black women across region from 2008 to 2017 and they show an increasing trend in all of the regions.
+
+#Plot #1
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
+library(readr)
+load("../../analysis/output/analytical_data.RData")
+library(ggplot2)
+library(texreg)
+```
+
+```{r mmr-white, fig.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=mmr_white, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  theme_bw()
+```
+#Plot#2
+```{r mmr-black, fig.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=mmr_black, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  theme_bw()
+```
+
+Plot 3 and Plot 4 show that the health insurance coverage  for both blacks and whites also increased over the years in all the census regions
+
+#Plot 3
+
+```{r insurance-diff2, fig.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=health_coverage_white, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  theme_bw()
+```
+
+#Plot#4
+
+
+```{r insurance-diff3, fig.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=health_coverage_black, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  theme_bw()
+```
+
+
+#Plot#5
+```{r maternalwhite, echo=FALSE, fig.cap="", fig.align="center"}
+ggplot(mat_mort, aes(x=health_coverage_white, y=mmr_white))+
+  geom_point(aes(color=region))+
+  geom_smooth(method="lm", se=FALSE)+
+  geom_smooth(aes(color=region), method="lm", se=FALSE)+
+  theme_bw()
+```
+#Plot#6
+
+```{r maternalblack, echo=FALSE, fig.cap="", fig.align="center"}
+ggplot(mat_mort, aes(x=health_coverage_black, y=mmr_black))+
+  geom_point(aes(color=region))+
+  geom_smooth(method="lm", se=FALSE)+
+  geom_smooth(aes(color=region), method="lm", se=FALSE)+
+  theme_bw()
+```
+
+ Ran two models to look at how health coverage manifested on the maternal mortality rates of whites and blacks
+
+
+
+```{r model-white, results= 'asis'}
+model.olswhite <- lm(log(mmr_white)~health_coverage_white, data=mat_mort)
+
+model.fixregionwhite <- update(model.olswhite, .~.+region)
+model.fixbothwhite <- update(model.fixregionwhite, .~.+as.factor(year))
+
+screenreg(list(model.olswhite, model.fixregionwhite, model.fixbothwhite), digits=3)
+```
+```{r model-black, results= 'asis'}
+model.olsblack <- lm(log(mmr_black)~health_coverage_black, data=mat_mort)
+#summary(model.ols)
+model.fixregionblack <- update(model.olsblack, .~.+region)
+model.fixbothblack <- update(model.fixregionblack, .~.+as.factor(year))
+#summary(model.fixboth)
+screenreg(list(model.olsblack, model.fixregionblack, model.fixbothblack), digits=3)
+```
+
+#Results for hypothesis 1:
+
+Plots 5 and 6 show a positive correlations between health insurance coverage and maternal mortality rates of white and black women. But the first hypothesis was that with increase in health coverage which will indicate a better access to health the maternal mortality rates will decrease. The model here shows the complete opposite results. This is a case of "spurious" results. Increase in health coverage did not actually improve the conditions of women regarding their pregnancy related deaths. Both of the variables increased simultaneously. But common sense says that this should not be the case. There must be some (could be one or several) other "confounding variables" that are causing the maternal mortality rates for both whites and blacks to continue to increase. These confounding variables can be the quality of healthcare, discrimination because of gender or/and race in getting care at health centers, socio economic status, employment situation and so on. The limitation of the scope of the dataset in this research is that it does not have information on those confounding variables. Therefore, it is not possible here to run correlations models for other confounding variables even though the results of these models are indicating that there are confounding variables involved.     
+
+#Hypothesis 2
+
+#Plot #7
+
+Here I have looked at how the difference between African American and White American women's maternal mortality ratio varied over the time frame of 2008 to 2017 and across the four census regions.  It shows how drastically the racial difference in maternal mortality ratio dropped dramatically in the Northeast region since 2008, but still high compared to Midwest and South remaining at a little above 2.3. The racial difference in maternal mortality started to decline since 2014 in the Midwest and the South. But in the South, the change from 2008 to 2017 is very small. It remained pretty much the same. The Midwest has the lowest maternal mortality ratio and it shows a steady decline all along. The only region that has an opposite trend is the West hitting the highest racial difference in maternal mortality ratios. It started to decline like the rest of the regions from 2010, but started to increase since 2015. It should be mentioned here that the Obama care probably has some impact on maternal mortality ratios since 2010 in all of the regions; but it also shows that it did not impact much in the West and the South. 
+
+
+```{r maternal-mortality, fig.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=mmr_race, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  theme_bw()
+```
+
+#Plot#8
+```{r insurance-diff, fig.cap="Distribution of Generation"}
+ggplot(mat_mort, aes(x=year, y=diff_coverage, color=region))+
+  geom_point()+
+  geom_smooth(se=FALSE, span=1)+
+  geom_hline(yintercept = 0, linetype=2)+
+  theme_bw()
+```
+
+The distribution in Plot 8 is the difference of health insurance coverage between African American and White American women from 2008 to 2017 in four census regions. It shows that the health insurance coverage of the African American women in the West is more than the White American women. It is worth mentioning here that in the previous Plot #7 we found that Wets also has the highest maternal mortality ratios indicating that health coverage is not impacting the maternal mortality ratios much. After 2015, the South also attained health insurance coverage for the blacks more than the whites. However, the difference in health coverage in the Northeast and Midwest in 2017 is 1.8 and 2.2 respectively.
+
+
+
+#Plot#9
+
+This is a plot with two variables: the maternal mortality ratios of African American over White American women and the difference of health insurance coverage between these two groups according census region. Each point of the four lines represents relationship of the two variables. Since we have found that the health insurance coverage of White American women is less than the Black American women in the West and in the South, these two regions show a flatter kind of linear direction indicating no relationship between the variables. But Northeast and Midwest show a positive correlation between maternal mortality ratios of African American women over whites and the difference of health insurance coverage between whites and blacks supporting my second hypothesis. Since the data is scattered so much across regions, the blue line in the middle is actually representing all the data of all four regions together on health coverage and mortality ratios and this is a straight line here showing zero relationship.
+
+```{r maternal mortality, echo=FALSE, fig.cap="", fig.align="center"}
+ggplot(mat_mort, aes(x=diff_coverage, y=mmr_race))+
+  geom_point(aes(color=region))+
+  geom_smooth(method="lm", se=FALSE)+
+  geom_smooth(aes(color=region), method="lm", se=FALSE)+
+  theme_bw()
+```
+
+
+
+#Run some models
+
+
+```{r model, results= 'asis'}
+model.ols <- lm(log(mmr_race)~diff_coverage, data=mat_mort)
+summary(model.ols)
+model.fixregion <- update(model.ols, .~.+region)
+model.fixboth <- update(model.fixregion, .~.+as.factor(year))
+summary(model.fixboth)
+htmlreg(list(model.ols, model.fixregion, model.fixboth), digits=3)
+```
+#Results for hypothesis 2:
+
+Model 1 predicts that zero or no difference in health insurance coverage between the blacks and whites will have a maternal mortality ratio of 0.881 per 100,000 population. It also predicts that one unit increase in the difference in health insurance coverage between blacks and whites will have 0.032 increase in the maternal mortality ratio.
+
+
+In Model 2, the variable region is added and the model predicts that in the Northeast region zero or no difference in health insurance coverage between the blacks and whites will have a maternal mortality ratio of 0.881 per 100,000 population. It also predicts that one unit increase in the difference in health insurance coverage between blacks and whites will have 0.065 increase in the maternal mortality ratio.
+
+In Model 3, the variable year is added and in the Northeast region zero or no difference in health insurance coverage between the blacks and whites will have a maternal mortality ratio of 0.983 per 100,000 population. It also predicts that one unit increase in the difference in health insurance coverage between blacks and whites will have 0.129 increase in the maternal mortality ratio. 
+
+Although these results are statistically insignificant with an R squared of 53 percent of the observations to be explained by the models, it is noteworthy that it supports the hypothesis.
+One reason for this statistically insignificant result could be that the dataset does not have state level maternal mortality information because any information of death is suppressed whenever the number of deaths is less than 9 in each state. Therefore, this dataset that focuses on the census region actually has a lot of suppressed data within it. Besides, state level dataset would have given a clear knowledge on the maternal mortality ratios. Another factor is the interference of the cofounding variables and having no information on them in the dataset. 
+
+
+#Conclusion
+
+This research project has been done to understand "whether or not access to health insurance is affecting the maternal mortality ratio of African American women compared to the White American women". I have formulated two hypotheses to answer the research question. First is that if the health coverage of White American women and the African American women in a given year increases, then it will decrease their maternal mortality rate rates respectively. Second is that if the difference in health insurance coverage between white and black women increases in a given year it will increase maternal mortality ratio of black women over white women and vice versa. I will also look into how variation of the independent variable manifests over the years on the dependent variable.
+All the data are collected from 2008 to 2017 time period and CDC Wonder and IPUMS USA have used for the datasets. 
+
+I have used a fixed effect regression model where the effect of access to health insurance which is the independent variable will be measured on the maternal mortality ratio by race. Since race, age and sex are constant over time, the fixed effect model seemed the best to serve the purpose. Dummy variables have been created for time and place. 
+
+I created several sets of models to run for the hypothesis tests and making inferences. The first sets of models did not support the first hypothesis. The reason could be the interference of confounding variables. There can be many other causes or independent variables behind the high mortality rates of African American women and white American women in general in the United States. For example, the socio-economic status, discrimination in work place regarding pregnancy related issues, women's employment status in general in society, education level, quality of prenatal and post-natal care, access to regular health checkups, discrimination in accessing health care systems and so on and so forth. Therefore, both health coverage and maternal mortality rates went up from 2008 to 2017. 
+
+For the second sets of models, the results supported the second hypothesis but is somewhat statistically insignificant. The reasons could be using dummy variables, the limited scopes of the dataset because of suppression of mortality information and also because looking at the region level instead of the state level. 
+
+#References 
+[1] "America's Health Rankings" available at https://www.americashealthrankings.org/explore/health-of-women-and-children/measure/maternal_mortality/state/ALL
+[2] Ibid.
+[3] Jeanne L. Alhusen, PhD, CRNP, RN, Kelly Bower, PhD, RN, Elizabeth Epstein, PhD, RN, and Phyllis Sharps, PhD, RN, FAAN, "Racial Discrimination and Adverse Birth Outcomes: An Integrative Review", PMC US National Library of Medicines and National Institutes of Health, J Midwifery Women's Health. 2016 Nov; 61(6): 707-720. Published online 2016 Oct 13. DOI: 10.1111/jmwh.12490
+[4] Ibid.
+[5] Ibid.
+[6] MomsRising factoid from maternal mortality available at https://www.momsrising.org/
+
